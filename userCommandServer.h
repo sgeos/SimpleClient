@@ -1,0 +1,7 @@
+#ifndef USER_COMMAND_SERVER_H
+#define USER_COMMAND_SERVER_H
+
+#define USER_COMMAND_STRING_MESSAGE "$message:/"
+
+#endif // USER_COMMAND_SERVER_H
+
