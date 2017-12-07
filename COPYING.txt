@@ -1,21 +1,3 @@
-
-Public Domain Dedication
-------------------------
-
-This software was written in 2013 by the following author(s):
-Brendan A R Sechter <bsechter@sennue.com>
-
-To the extent possible under law, the above author(s) have dedicated
-all copyright and related and neighboring rights to this software to
-the public domain worldwide. This software is distributed without any
-warranty.
-
-This software has been released under the terms of the CC0 Public Domain
-Dedication reproduced below.  Please release derivative works under the
-terms of the CC0 Public Domain Dedication.
-
-========================================================================
-
 Creative Commons Legal Code
 
 CC0 1.0 Universal
@@ -137,6 +119,4 @@ express Statement of Purpose.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
-
-========================================================================
 
